@@ -1,7 +1,8 @@
 criaCartao(
     'jogo de açao',
-',
-    'O Python é uma linguagem de programação'
+    '. Qual é o objetivo principal no jogo Free Fire?'
+    'O objetivo principal no Free Fire é ser o último jogador ou equipe sobrevivente em uma partida de battle royale. Para isso, os jogadores precisam coletar recursos, armas e equipamentos enquanto eliminam os adversários e evitam ficar fora da zona segura.
+'
 )
 
 criaCartao(
